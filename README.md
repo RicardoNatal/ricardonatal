@@ -2,25 +2,25 @@
 
  
 
-## I'm (SEU NOME)!
+## I'm Ricardo!
 
  
 
-:computer: I'm Front-End Developer!
+:computer: I'm Front-End Lover.
 
 :house_with_garden: I’m from Brazil.
 
 :books: I’m currently learning everything.
 
-:outbox_tray: 2021 Goals: create a new project and find a new job.
+:outbox_tray: I'm a student from Entra21 - JavaWeb
 
  
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/RicardoNatal)](https://github.com/RicardoNatal)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-natal-schvambach-780986212/)](https://www.linkedin.com/in/ricardo-natal-schvambach-780986212/)
 
 
 
