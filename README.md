@@ -6,7 +6,7 @@
 
  
 
-:computer: I'm Front-End Lover.
+:computer: A Front-End Lover.
 
 :house_with_garden: I’m from Brazil.
 
