@@ -1,6 +1,6 @@
 ## Opa, eu sou o Ricardo!
 
- <div display="inline-box">
+ <div>
   <a href="https://github.com/ricardonatal">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardonatal&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
   <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoNatal&layout=compact&langs_count=16&theme=shades-of-purple"/>
